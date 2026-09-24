@@ -1,0 +1,6 @@
+{
+  "name": "STRIKEPOINT: Tactical Sniper",
+  "description": "High-precision tactical sniper browser game featuring mil-dot scope physics, procedural cyberpunk cityscapes, dynamic wind deflection, and Web Audio sound effects.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
